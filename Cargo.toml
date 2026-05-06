@@ -1,0 +1,10 @@
+[package]
+name = "wmimapper"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+wmi = "0.13"
+serde = { version = "1.0", features = ["derive"] }
+rayon = "1.8"
+pinger = "0.4"
