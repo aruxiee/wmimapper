@@ -77,3 +77,7 @@ While WMI is a great tool, running it against thousands of endpoints is loud. To
 - **Integration:** Link this tool with a port scanner to verify if Port 135 is open before attempting the WMI handshake.
 
 ---
+
+<p align="center">
+  With ❤️ by <b>Aradhya</b>
+</p>
