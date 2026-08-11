@@ -79,5 +79,5 @@ While WMI is a great tool, running it against thousands of endpoints is loud. To
 ---
 
 <p align="center">
-  With ❤️ by <b>Aradhya</b>
+  With ❤️ by <b>Arusha</b>
 </p>
